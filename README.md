@@ -57,5 +57,5 @@
 [<img align="left" alt="SaarMamok | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
 
 
-[linkedin]: www.linkedin.com/in/saar-mamok
+[linkedin]: https://www.linkedin.com/in/saar-mamok/
 [gmail]: mailto:saarmaok63@gmail.com
