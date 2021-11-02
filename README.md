@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋, I'm [Saar Mamok](https://github.com/SaarMamok) 👨‍💻
 
 
 <img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
