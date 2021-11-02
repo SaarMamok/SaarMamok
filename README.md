@@ -7,8 +7,6 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 👨‍🎓  I'm a Computer Science student (3rd year)
-
-- 💼  I'm a private tutor for 1st year students teaching intro to C and OOP  in C++
   
 - 💪  I'm a self-taught, continuously searching for greater challenges and have great team and leadership abilities
 
@@ -31,7 +29,7 @@
  
 -  🛢 &nbsp; 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
   
   
 - ⚙️ &nbsp; 
@@ -51,13 +49,13 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
   
-
+![Saar's github stats](https://github-readme-stats.vercel.app/api?username=SaarMamok&theme=vision-friendly-dark&hide=prs,issues,stars,contribs)
  
 
 ### 📝 Contact Me 
-[<img align="left" alt="kfirbilu | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
-[<img align="left" alt="kfirbilu | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
+[<img align="left" alt="SaarMamok | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
+[<img align="left" alt="SaarMamok | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
 
 
-[linkedin]: https://www.linkedin.com/in/kfirbilu/
-[gmail]: mailto:kfirbilu@gmail.com
+[linkedin]: www.linkedin.com/in/saar-mamok
+[gmail]: mailto:saarmaok63@gmail.com
