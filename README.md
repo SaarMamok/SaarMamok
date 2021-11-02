@@ -53,17 +53,6 @@
  
 
 ### 📝 Contact Me 
-[<img align="left" alt="SaarMamok | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
-[<img align="left" alt="SaarMamok | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
-
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/saar-mamok/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SaarMamok)
-  &nbsp;
-[![Gmail](https://i.stack.imgur.com/tskMh.png) Gmail](mailto:saarmaok63@gmail.com)
-
-[linkedin]: https://www.linkedin.com/in/saar-mamok/
-[gmail]: mailto:saarmaok63@gmail.com
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saar-mamok/)
   &nbsp;
